@@ -32,4 +32,4 @@ print( len (babysteps))
 value1= 192
 value2= 108
 
-print("The 10% overscan of 1920 is" +" "+ str(value1) + " ,and the 1080 is" +" "+ str(value2) +"." )
+print("The 10% overscan of 1920 is" + str(value1) + " ,and the 1080 is" +" "+ str(value2) +"." )
